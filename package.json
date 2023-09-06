@@ -1,0 +1,25 @@
+{
+  "name": "chatbot-langchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Moraes de Carvalho",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.5.1",
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "langchain": "^0.0.130",
+    "node-fetch": "^3.3.2",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^3.9.179",
+    "redis": "^4.6.7",
+    "web-streams-polyfill": "^4.0.0-beta.3"
+  }
+}
