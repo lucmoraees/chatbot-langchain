@@ -1,7 +1,5 @@
 # Chatbot with langchain and OpenAI
 
-<br />
-
 ## Environment
 ### Node Version
 node: v18.16.0
