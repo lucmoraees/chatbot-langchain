@@ -1,20 +1,14 @@
 ## Redis
 
-<br />
-
 ### Node Version
 
 node: v18.16.0
-
-<br />
 
 ### Run redis container
 
 ```
 docker run --name langchain-redis -p 6379:6379 -d redislabs/redisearch:latest
 ```
-
-<br />
 
 ### Steps to execute
 
